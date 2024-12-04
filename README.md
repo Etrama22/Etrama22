@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Azis! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&center=true&width=435&lines=Software+Engineer+%7C+Full-Stack+Developer;Passionate+Learner+%7C+Tech+Enthusiast;Creating+Code+%26+Innovations" alt="Typing SVG" />
@@ -22,9 +22,9 @@
 ---
 
 ### 📫 Get in Touch:
-- LinkedIn: [Your LinkedIn Profile](#)
-- Portfolio: [Your Portfolio Website](#)
-- Email: youremail@example.com
+- LinkedIn: @
+- Portfolio: Ongoing
+- Email: Muhazis73@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
