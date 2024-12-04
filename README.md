@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Azis! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&center=true&width=100%&lines=Aspiring+Full-Stack+Developer;Passionate+About+Web+Development;Enthusiastic+to+Learn+and+Build;Focused+on+Creating+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&center=true&width=900&lines=Aspiring+Full-Stack+Developer;Passionate+About+Web+Development;Enthusiastic+to+Learn+and+Build;Focused+on+Creating+Impactful+Solutions" alt="Typing SVG" />
 </p>
 
 
