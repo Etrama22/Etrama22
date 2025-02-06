@@ -21,9 +21,9 @@
 ---
 
 ### 📫 Get in Touch:
-- LinkedIn: soon
-- Portfolio: soon
-- Email: soon
+- LinkedIn: www.linkedin.com/in/m-azisetr
+- Portfolio: -
+- Email: Muhazis73@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Etrama22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
