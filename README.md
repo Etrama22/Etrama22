@@ -26,5 +26,5 @@
 - Email: soon
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Etrama22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
