@@ -19,7 +19,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-teal?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-teal?style=flat-square&logo=Bootstrap&logoColor=white)
 
 ---
 
