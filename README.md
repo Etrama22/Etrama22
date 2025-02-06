@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Get in Touch:
-- LinkedIn: www.linkedin.com/in/m-azisetr
+- LinkedIn: Muhammad Azis
 - Portfolio: -
 - Email: Muhazis73@gmail.com
 
