@@ -35,7 +35,7 @@ motto: "Code with passion, build with purpose 🚀"
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Tech Stack
 
-<div align="center">
+<div align="start">
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ motto: "Code with passion, build with purpose 🚀"
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
-<div align="center">
+<div align="start">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Etrama22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
 &nbsp;&nbsp;
@@ -78,7 +78,7 @@ motto: "Code with passion, build with purpose 🚀"
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="35" height="35" /> Connect With Me
 
-<div align="center">
+<div align="start">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-azisetr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhazis73@gmail.com)
@@ -87,7 +87,7 @@ motto: "Code with passion, build with purpose 🚀"
 
 ---
 
-<div align="center">
+<div align="start">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="30" height="30" /> Thanks for visiting!
 
